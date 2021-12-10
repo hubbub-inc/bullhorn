@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265664617358",
+    "project_id": "blips-31d19",
+    "storage_bucket": "blips-31d19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265664617358:android:9bf48e50ac4969ecb6a2df",
+        "android_client_info": {
+          "package_name": "com.example.blips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265664617358-2t931qc99eqjthcj89sfik6f61tbfvp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChQscF1Mwwbfc2GYCpikgGaeojZngEOpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265664617358-2t931qc99eqjthcj89sfik6f61tbfvp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
